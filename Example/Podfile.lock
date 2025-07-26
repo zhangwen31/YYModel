@@ -1,0 +1,16 @@
+PODS:
+  - YYModel (1.0.5)
+
+DEPENDENCIES:
+  - YYModel (from `../`)
+
+EXTERNAL SOURCES:
+  YYModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYModel: 96a6c35c12b0db1c02dddb4b3cb9455edcbf0efd
+
+PODFILE CHECKSUM: bb7dbdc8b733ea167f9dd932947d33ce06465de3
+
+COCOAPODS: 1.16.2
